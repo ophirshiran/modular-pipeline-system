@@ -1,0 +1,25 @@
+# Build artifacts
+output/
+*.o
+*.so
+*.a
+*.out
+*.exe
+*.obj
+*.log
+
+# Coverage and debug
+*.gcda
+*.gcno
+*.gcov
+core
+vgcore.*
+
+# macOS
+.DS_Store
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*~
