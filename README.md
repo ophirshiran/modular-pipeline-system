@@ -205,8 +205,6 @@ Special control line:
 
 ## Demo video
 
-A short demo video can be embedded directly in this README.
-
 ```html
 <video src="demo/demo-pipeline-plugin.mov" controls width="720">
   Your browser does not support the video tag.
@@ -226,15 +224,6 @@ The video illustrates the following scenarios in chronological order:
 
 4. **Interactive usage and shutdown**  
    The analyzer is started and the user types several lines directly into the terminal. The special `<END>` line is then entered and the video shows how this sentinel value triggers a clean shutdown and returns control to the shell.
-
-To make the embedded video work in the repository:
-
-- Create a folder named `demo` in the project root.
-- Place the file `demo-pipeline-plugin.mov` inside that folder.
-- Commit both the `demo` folder and this README file.
-- Push the changes to GitHub.
-
-GitHub will serve the video file and the `<video>` tag will display a player directly inside the README.
 
 ## Built in plugins
 
