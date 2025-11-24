@@ -205,11 +205,7 @@ Special control line:
 
 ## Demo video
 
-```html
-<video src="demo/demo-pipeline-plugin.mov" controls width="720">
-  Your browser does not support the video tag.
-</video>
-```
+https://github.com/user-attachments/assets/769595ac-6cde-4bac-b20e-f417bbb1760e
 
 The video illustrates the following scenarios in chronological order:
 
